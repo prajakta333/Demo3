@@ -1,0 +1,31 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+#bg {
+    height: 1000px;
+    background: linear-gradient(to top left, #66ff99 0%, #ff99ff 93%);
+}
+.header {
+    padding: 10px;
+    text-align: center;
+    background-color:steelblue;
+    color: white;
+}
+.logoimg {
+    height: 10%;
+    float: left;
+}
+
+.banner img{
+    max-width:100%;
+}
+h8{
+    font-size:50px
+}
